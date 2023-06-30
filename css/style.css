@@ -1,0 +1,83 @@
+#in-body{
+    margin: 0px;
+    margin-top: -16px;
+}
+.navbar{
+    background-color: #2874f0;
+    width: 100%;
+    height: 50px;
+}
+.navbar-2{
+    width: 100%;
+    height: 88px;
+    border-bottom: 18px solid lightgray;
+   
+
+}
+#ul-nav{
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+}
+#Fif-gro{
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    margin-inline-start: 1px; 
+}
+#Grocery-underline{
+    text-decoration: none;
+}
+    
+#Text-ui-nav{
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Roboto,Arial,sans-serif;
+    margin-top: -22px;
+    }
+#flight{
+    width: 100%;
+    border-bottom: 12px solid lightgray;
+}
+.product-image-1{
+    width: 290px;   
+}
+#item{
+    display: flex;
+}
+.item-first{
+    display: flex;
+
+
+}
+.img-hight{
+    height: 60px;
+}
+#first-sider-right{
+    text-align: center;
+    width: 290px;
+}
+#view-all{
+    margin-left: 80px;
+    color: white;
+    text-align: center;
+    background-color: deepskyblue;
+    width: 36%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border: outset;
+}
+#nav{
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+    text-align: center;
+}
+#nav-margin{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
